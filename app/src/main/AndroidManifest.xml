@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@android:drawable/sym_def_app_icon"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Base.Theme.VenturePlusCRM"
+        tools:targetApi="30">
+        
+        <activity
+            android:name=".SimpleCRMActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:name=".LoginActivity"
+            android:exported="false" />
+        
+        <activity
+            android:name=".SimpleActivity"
+            android:exported="false" />
+        
+        <activity
+            android:name=".EmployeeDashboardActivity"
+            android:exported="false" />
+            
+        <activity
+            android:name=".AdminDashboardActivity"
+            android:exported="false" />
+            
+        <activity
+            android:name=".VentureLocationsActivity"
+            android:exported="false" />
+            
+        <activity
+            android:name=".VentureMapActivity"
+            android:exported="false" />
+            
+        <activity
+            android:name=".CustomerDetailsActivity"
+            android:exported="false" />
+            
+        <activity
+            android:name=".ReportsActivity"
+            android:exported="false" />
+            
+        <activity
+            android:name=".NewVenturesActivity"
+            android:exported="false" />
+            
+        <activity
+            android:name=".TotalDataActivity"
+            android:exported="false" />
+            
+        <activity
+            android:name=".TrackCustomersActivity"
+            android:exported="false" />
+            
+        <activity
+            android:name=".TrackEmployeesActivity"
+            android:exported="false" />
+
+    </application>
+
+</manifest>

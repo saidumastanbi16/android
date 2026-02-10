@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/light_gray"
+    tools:context=".ReportsActivity">
+
+    <TextView
+        android:id="@+id/titleTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="REPORTS"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:textColor="@color/white"
+        android:background="@color/primary_blue"
+        android:padding="16dp"
+        android:gravity="center" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="What is Report?\n\nReport is something to track the customer details and we can create Lead to customers in reports.\n\nAgent goes to the reports page and converts Green to Orange and Orange to Red.\n\nReport helps Agent as well as Managers to track the customer data."
+        android:textSize="14sp"
+        android:textColor="@color/text_secondary"
+        android:padding="16dp"
+        android:background="@color/white"
+        android:layout_margin="16dp" />
+
+    <ListView
+        android:id="@+id/reportsListView"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_margin="16dp"
+        android:background="@color/white"
+        android:divider="@color/light_gray"
+        android:dividerHeight="1dp"
+        android:padding="8dp" />
+
+    <Button
+        android:id="@+id/backButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Back"
+        android:background="@color/primary_blue"
+        android:textColor="@color/white"
+        android:layout_margin="16dp"
+        android:padding="12dp" />
+
+</LinearLayout>

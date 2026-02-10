@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Venture Plus CRM</string>
+    <string name="login_title">Venture Plus CRM</string>
+    <string name="login_subtitle">One stop solution for all your Real estate needs</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="employee_login">Employee Login</string>
+    <string name="admin_login">Admin Login</string>
+    <string name="login">Login</string>
+    <string name="profile">PROFILE</string>
+    <string name="venture_locations">VENTURE LOCATIONS</string>
+    <string name="track_customers">TRACK CUSTOMERS</string>
+    <string name="reports">REPORTS</string>
+    <string name="new_venture">NEW VENTURE</string>
+    <string name="total_data">TOTAL DATA</string>
+    <string name="track_employees">TRACK EMPLOYEES</string>
+    <string name="contact_name">CONTACT NAME</string>
+    <string name="contact_number">CONTACT NUMBER</string>
+    <string name="location">LOCATION</string>
+    <string name="unique_id">UNIQUE ID</string>
+    <string name="price_per_sq_yard">PRICE / SQ.YARD</string>
+    <string name="photo">PHOTO</string>
+    <string name="upload">UPLOAD</string>
+    <string name="submit">SUBMIT</string>
+    <string name="cash">CASH</string>
+    <string name="online">ONLINE</string>
+    <string name="payment">PAYMENT</string>
+    <string name="total_price">TOTAL PRICE</string>
+    <string name="paid_advance">PAID ADVANCE</string>
+    <string name="paid_remaining">PAID REMAINING</string>
+    <string name="budget">BUDGET</string>
+    <string name="record_owner">RECORD OWNER</string>
+    <string name="change_record_owner">CHANGE RECORD OWNER</string>
+    <string name="select_employee">SELECT EMPLOYEE</string>
+    <string name="admin_total_data">ADMIN TOTAL DATA</string>
+</resources>

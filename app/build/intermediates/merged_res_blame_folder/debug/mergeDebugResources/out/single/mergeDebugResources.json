@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "com.ventureplus.crm.app-debug-24:/layout_activity_main.xml.flat",
+        "source": "com.ventureplus.crm.app-main-26:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.ventureplus.crm.app-debug-24:/layout_activity_venture_locations.xml.flat",
+        "source": "com.ventureplus.crm.app-main-26:/layout/activity_venture_locations.xml"
+    },
+    {
+        "merged": "com.ventureplus.crm.app-debug-24:/layout_activity_total_data.xml.flat",
+        "source": "com.ventureplus.crm.app-main-26:/layout/activity_total_data.xml"
+    },
+    {
+        "merged": "com.ventureplus.crm.app-debug-24:/layout_activity_venture_map.xml.flat",
+        "source": "com.ventureplus.crm.app-main-26:/layout/activity_venture_map.xml"
+    },
+    {
+        "merged": "com.ventureplus.crm.app-debug-24:/layout_activity_employee_dashboard.xml.flat",
+        "source": "com.ventureplus.crm.app-main-26:/layout/activity_employee_dashboard.xml"
+    },
+    {
+        "merged": "com.ventureplus.crm.app-debug-24:/layout_activity_login.xml.flat",
+        "source": "com.ventureplus.crm.app-main-26:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.ventureplus.crm.app-debug-24:/layout_activity_admin_dashboard.xml.flat",
+        "source": "com.ventureplus.crm.app-main-26:/layout/activity_admin_dashboard.xml"
+    },
+    {
+        "merged": "com.ventureplus.crm.app-debug-24:/drawable_edittext_background.xml.flat",
+        "source": "com.ventureplus.crm.app-main-26:/drawable/edittext_background.xml"
+    },
+    {
+        "merged": "com.ventureplus.crm.app-debug-24:/layout_activity_track_employees.xml.flat",
+        "source": "com.ventureplus.crm.app-main-26:/layout/activity_track_employees.xml"
+    },
+    {
+        "merged": "com.ventureplus.crm.app-debug-24:/layout_activity_admin_total_data.xml.flat",
+        "source": "com.ventureplus.crm.app-main-26:/layout/activity_admin_total_data.xml"
+    },
+    {
+        "merged": "com.ventureplus.crm.app-debug-24:/xml_backup_rules.xml.flat",
+        "source": "com.ventureplus.crm.app-main-26:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.ventureplus.crm.app-debug-24:/layout_plot_item_layout.xml.flat",
+        "source": "com.ventureplus.crm.app-main-26:/layout/plot_item_layout.xml"
+    },
+    {
+        "merged": "com.ventureplus.crm.app-debug-24:/layout_activity_new_ventures.xml.flat",
+        "source": "com.ventureplus.crm.app-main-26:/layout/activity_new_ventures.xml"
+    },
+    {
+        "merged": "com.ventureplus.crm.app-debug-24:/xml_data_extraction_rules.xml.flat",
+        "source": "com.ventureplus.crm.app-main-26:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.ventureplus.crm.app-debug-24:/layout_activity_customer_details.xml.flat",
+        "source": "com.ventureplus.crm.app-main-26:/layout/activity_customer_details.xml"
+    },
+    {
+        "merged": "com.ventureplus.crm.app-debug-24:/layout_activity_reports.xml.flat",
+        "source": "com.ventureplus.crm.app-main-26:/layout/activity_reports.xml"
+    },
+    {
+        "merged": "com.ventureplus.crm.app-debug-24:/layout_activity_track_customers.xml.flat",
+        "source": "com.ventureplus.crm.app-main-26:/layout/activity_track_customers.xml"
+    },
+    {
+        "merged": "com.ventureplus.crm.app-debug-24:/drawable_menu_button_background.xml.flat",
+        "source": "com.ventureplus.crm.app-main-26:/drawable/menu_button_background.xml"
+    },
+    {
+        "merged": "com.ventureplus.crm.app-debug-24:/drawable_ic_arrow_right.xml.flat",
+        "source": "com.ventureplus.crm.app-main-26:/drawable/ic_arrow_right.xml"
+    }
+]

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/plotContainer"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@color/green_plot"
+    android:layout_margin="2dp">
+
+    <TextView
+        android:id="@+id/plotTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="P1"
+        android:textSize="10sp"
+        android:textColor="@color/white"
+        android:textStyle="bold" />
+
+</LinearLayout>
